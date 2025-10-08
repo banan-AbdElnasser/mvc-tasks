@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-p1", "Demo-p1.csproj", "{DFAB17A9-577C-437C-877A-EF4DA122B0DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.DAL", "..\Demo.DAL\Demo.DAL.csproj", "{3463E8E3-771D-4394-A639-5CC8B54FD135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.BLL", "..\Demo.BLL\Demo.BLL.csproj", "{55D0A277-A97F-4149-A7FF-FBE23BFD6612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAB17A9-577C-437C-877A-EF4DA122B0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAB17A9-577C-437C-877A-EF4DA122B0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAB17A9-577C-437C-877A-EF4DA122B0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAB17A9-577C-437C-877A-EF4DA122B0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3463E8E3-771D-4394-A639-5CC8B54FD135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3463E8E3-771D-4394-A639-5CC8B54FD135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3463E8E3-771D-4394-A639-5CC8B54FD135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3463E8E3-771D-4394-A639-5CC8B54FD135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D0A277-A97F-4149-A7FF-FBE23BFD6612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D0A277-A97F-4149-A7FF-FBE23BFD6612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D0A277-A97F-4149-A7FF-FBE23BFD6612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D0A277-A97F-4149-A7FF-FBE23BFD6612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA3E87C4-AF05-45B2-AD17-62F46B042DC0}
+	EndGlobalSection
+EndGlobal
